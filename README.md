@@ -4,6 +4,10 @@
 
 <a href="https://public.tableau.com/app/profile/briggs.p5727/viz/GBBO_Viwership_Year_Channel_17645518609160/Viewership_Year_Channel">Link to Tableau Visualizations on Public Profile</a> 
 
+<img src="images/Viz2.png" alt="Datastory with tableau badge" width="800">
+
+<br />
+
 <details>
 <summary>DataStory with Tableau</summary>
 
