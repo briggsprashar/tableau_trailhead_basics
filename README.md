@@ -41,6 +41,12 @@
 
 <img src="Images/Viz4.png" alt="Tableau Data Model" width="800">
 
+### Visualization
+
+<img src="Images/Viz6.png" alt="Tableau Vizualization" width="800">
+
+<br />
+
 </details>
 
 <br />
